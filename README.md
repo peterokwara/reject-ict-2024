@@ -1,6 +1,6 @@
-# Reject Robotics AI
+# Reject ICT Bill 2024
 
-Reject Robotics AI is a web application built with Svelte, DaisyUI, and TailwindCSS. This project aims to provide a streamlined and modern interface with a focus on simplicity and usability.
+Reject ICT Bill 2024 is a web application built with Svelte, DaisyUI, and TailwindCSS. This project aims to provide a streamlined and modern interface with a focus on simplicity and usability.
 
 ## Table of Contents
 
@@ -20,7 +20,7 @@ Reject Robotics AI is a web application built with Svelte, DaisyUI, and Tailwind
 
 ## Introduction
 
-Reject Robotics AI provides a user-friendly interface for interacting with robotics AI systems. The application leverages modern frontend technologies to ensure a responsive and intuitive user experience.
+Reject ICT Bill 2024 provides a user-friendly interface for interacting with ICT bill 2024 systems. The application leverages modern frontend technologies to ensure a responsive and intuitive user experience.
 
 ## Features
 
@@ -51,8 +51,8 @@ npm install -g pnpm
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/peterokwara/reject-robotics-ai.git
-   cd reject-robotics-ai
+   git clone https://github.com/peterokwara/reject-ict-bill-2024.git
+   cd reject-ict-bill-2024
    ```
 
 2. **Install Dependencies:**

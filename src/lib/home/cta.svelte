@@ -13,7 +13,7 @@
 		<p class="text-3xl lg:text-4xl">👇</p>
 
 		<div class="grid w-full max-w-4xl grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3">
-			<a href="/submit" class="w-full text-white btn btn-secondary" target="_blank">
+			<a href="/submit" class="w-full text-white btn btn-primary" target="_blank">
 				Create Your Submission
 			</a>
 			<a
