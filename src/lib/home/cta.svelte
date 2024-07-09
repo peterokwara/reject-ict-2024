@@ -17,14 +17,14 @@
 				Create Your Submission
 			</a>
 			<a
-				href="https://x.com/intent/post?text=Join+us+in+rejecting+the+Robotics+and+AI+Bill+2024+created+by+@fsagwe+@KenyaRobotics+@kennedykwangari!&hashtags=RejectRoboticsAndAIBill2024&url=https%3A%2F%2Freject-robotics-ai.vercel.app%2F"
+				href="https://twitter.com/intent/tweet?text=Join+us+in+rejecting+the+ICTBill2024+%23RejectICTBill2024+%23RejectICTBill&url=https%3A%2F%2Freject-ict-2024.vercel.app%2F"
 				class="w-full text-white btn btn-secondary"
 				target="_blank"
 			>
 				Share On Twitter
 			</a>
 			<a
-				href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Freject-robotics-ai.vercel.app%2F"
+				href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Freject-ict-2024.vercel.app%2F"
 				class="w-full text-white btn btn-secondary"
 				target="_blank"
 				rel="noopener noreferrer"
