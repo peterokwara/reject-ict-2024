@@ -35,7 +35,7 @@
 			>
 				Shape Kenya's Tech Future: Your Voice Matters!
 			</p>
-			<button class="text-white btn-primary btn"> Submit your response </button>
+			<a href="#cta" class="text-white btn-primary btn"> Submit your response </a>
 		</div>
 	</div>
 </section>
