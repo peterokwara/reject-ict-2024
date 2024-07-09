@@ -23,11 +23,11 @@
 								{/each}
 							</blockquote>
 							<figcaption class="flex items-center mt-6 gap-x-4">
-								<!-- <img
+								<img
 									class="w-10 h-10 rounded-full bg-gray-50"
-									src={`https://x.com/${testimonial.handle.substring(1)}/photo`}
+									src={testimonial.image}
 									alt={`${testimonial.user}'s Twitter profile picture`}
-								/> -->
+								/>
 								<div>
 									<div class="font-semibold text-gray-900">{testimonial.user}</div>
 									<div class="text-gray-600">{testimonial.handle}</div>

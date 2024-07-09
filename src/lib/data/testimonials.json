@@ -1,11 +1,10 @@
 [
     {
-        "user": "test",
-        "handle": "@test",
-        "time": "5h",
-        "image": "",
+        "user": "Bill",
+        "handle": "@BillOkello_",
+        "image": "https://pbs.twimg.com/profile_images/1801713704678850560/hj897yPe_400x400.jpg",
         "comments": [
-            "Test"
+            "I have just sent in my comments for the proposed ICT Bill. If you're a techie, I suggest reading the bill and sending in your comments as well by 15th July. Use the below format and send to ictabill@icta.go.ke and cc legal@moict.go.ke"
         ]
     }
 ]
