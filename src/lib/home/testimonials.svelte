@@ -39,5 +39,8 @@
 				<!-- More testimonials... -->
 			</div>
 		</div>
+		<div class="flex items-center justify-center w-full pt-10">
+			<a href="#cta" class="text-white btn btn-primary">Submit Your Response</a>
+		</div>
 	</div>
 </div>

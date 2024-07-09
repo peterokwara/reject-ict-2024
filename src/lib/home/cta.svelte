@@ -13,9 +13,7 @@
 		<p class="text-3xl lg:text-4xl">👇</p>
 
 		<div class="grid w-full max-w-4xl grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3">
-			<a href="/submit" class="w-full text-white btn btn-primary" target="_blank">
-				Create Your Submission
-			</a>
+			<a href="/submit" class="w-full text-white btn btn-primary"> Create Your Submission </a>
 			<a
 				href="https://twitter.com/intent/tweet?text=Join+us+in+rejecting+the+ICTBill2024+%23RejectICTBill2024+%23RejectICTBill&url=https%3A%2F%2Freject-ict-2024.vercel.app%2F"
 				class="w-full text-white btn btn-secondary"
