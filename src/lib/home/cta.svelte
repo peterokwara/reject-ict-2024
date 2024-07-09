@@ -36,7 +36,7 @@
 				Follow the discussion
 			</a>
 			<a
-				href="https://docs.google.com/document/d/16vyCQVNbOZzlyN8PvnfF9B8JroeAxBMv/edit?usp=sharing&ouid=113687490993866143845&rtpof=true&sd=true"
+				href="https://cms.icta.go.ke//sites/default/files/2024-06/ICTA%20BILL%20FINAL%20FOR%20PUBLICATION.pdf"
 				class="w-full text-white btn btn-secondary"
 			>
 				Read the bill
@@ -58,6 +58,12 @@
 				class="w-full text-white btn btn-secondary"
 			>
 				View GitHub repo
+			</a>
+			<a
+				href="https://docs.google.com/document/d/e/2PACX-1vSl7n1Fp934pS1EpMBQkETb3HiBFpLg2Lyaja6z8PEsviVin0qgxM8lT47KXYowqYpFeEHfXo6N6EMH/pub"
+				class="w-full text-white btn btn-secondary"
+			>
+				Email Template
 			</a>
 		</div>
 	</div>

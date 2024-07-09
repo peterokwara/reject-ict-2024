@@ -48,9 +48,9 @@
 	</div>
 
 	<div class="mb-6">
-		<h2 class="mb-2 text-lg font-semibold">Not sure which section to comment on?</h2>
-		<p class="mb-2">You can chat with an AI about the bill to get more information:</p>
-		<div class="grid grid-cols-1 gap-2 sm:grid-cols-2">
+		<h2 class="mb-2 text-lg font-semibold">Helpful Resources</h2>
+		<p class="mb-2">Not sure where to start? Here are some resources to help you:</p>
+		<div class="grid grid-cols-1 gap-2 sm:grid-cols-2 md:grid-cols-3">
 			<a
 				href="https://chatgpt.com/g/g-onRXZwI9D-ict-authority-bill-2024-gpt"
 				target="_blank"
@@ -67,7 +67,19 @@
 			>
 				Chat with bill (2)
 			</a>
+			<a
+				href="https://docs.google.com/document/d/e/2PACX-1vSl7n1Fp934pS1EpMBQkETb3HiBFpLg2Lyaja6z8PEsviVin0qgxM8lT47KXYowqYpFeEHfXo6N6EMH/pub"
+				target="_blank"
+				rel="noopener noreferrer"
+				class="w-full text-white btn btn-secondary"
+			>
+				Email Template
+			</a>
 		</div>
+		<p class="mt-2 text-sm text-gray-600">
+			The email template provides a structured format for your comments. You can use it as a guide
+			when filling out the form below.
+		</p>
 	</div>
 
 	{#each formData.comments as comment, index}
