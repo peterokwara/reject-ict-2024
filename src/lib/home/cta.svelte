@@ -12,34 +12,55 @@
 
 		<p class="text-3xl lg:text-4xl">👇</p>
 
-		<div class="flex flex-col gap-4 lg:flex-row">
+		<div class="grid w-full max-w-4xl grid-cols-1 gap-4 sm:grid-cols-2 md:grid-cols-3">
+			<a href="/submit" class="w-full text-white btn btn-secondary" target="_blank">
+				Create Your Submission
+			</a>
 			<a
 				href="https://x.com/intent/post?text=Join+us+in+rejecting+the+Robotics+and+AI+Bill+2024+created+by+@fsagwe+@KenyaRobotics+@kennedykwangari!&hashtags=RejectRoboticsAndAIBill2024&url=https%3A%2F%2Freject-robotics-ai.vercel.app%2F"
-				class="text-white btn btn-secondary"
+				class="w-full text-white btn btn-secondary"
 				target="_blank"
 			>
 				Share On Twitter
 			</a>
 			<a
 				href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Freject-robotics-ai.vercel.app%2F"
-				class="text-white btn btn-secondary"
+				class="w-full text-white btn btn-secondary"
 				target="_blank"
 				rel="noopener noreferrer"
 			>
 				Share On LinkedIn
 			</a>
-
 			<a
 				href="https://x.com/0xNdeto/status/1810644078024962511"
-				class="text-white btn btn-secondary"
+				class="w-full text-white btn btn-secondary"
 			>
-				Follow the discussion on @0xNdeto Twitter Spaces
+				Follow the discussion
 			</a>
-
 			<a
 				href="https://docs.google.com/document/d/16vyCQVNbOZzlyN8PvnfF9B8JroeAxBMv/edit?usp=sharing&ouid=113687490993866143845&rtpof=true&sd=true"
-				class="text-white btn btn-secondary">Read the bill</a
+				class="w-full text-white btn btn-secondary"
 			>
+				Read the bill
+			</a>
+			<a
+				href="https://chatgpt.com/g/g-onRXZwI9D-ict-authority-bill-2024-gpt"
+				class="w-full text-white btn btn-secondary"
+			>
+				Chat with bill (1)
+			</a>
+			<a
+				href="https://chatgpt.com/g/g-eLeBzwkRa-proposed-ict-bill-paralegal"
+				class="w-full text-white btn btn-secondary"
+			>
+				Chat with bill (2)
+			</a>
+			<a
+				href="https://github.com/peterokwara/reject-ict-2024"
+				class="w-full text-white btn btn-secondary"
+			>
+				View GitHub repo
+			</a>
 		</div>
 	</div>
 </section>
