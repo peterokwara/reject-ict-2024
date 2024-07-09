@@ -7,8 +7,8 @@
 
 	const title = 'Reject The ICT Bill 2024';
 	const description = 'Keep Technology Open for Everyone';
-	const ogImage = 'https://reject-robotics-ai.vercel.app/images/open-graph/website.png';
-	const url = 'https://reject-robotics-ai.vercel.app';
+	const ogImage = 'https://reject-ict-2024.vercel.app/images/open-graph/website.png';
+	const url = 'https://reject-ict-2024.vercel.app';
 </script>
 
 <svelte:head>
